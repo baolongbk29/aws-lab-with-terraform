@@ -1,0 +1,25 @@
+# Local .terraform directory (contains binaries and cached modules)
+.terraform/
+
+# State files (Highly sensitive! These contain your secrets in plain text)
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+# Variable files (often contain sensitive credentials)
+*.tfvars
+*.tfvars.json
+
+# Ignore override files as they are usually local-only adjustments
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include official ignore for crash logs
+crash.log
+crash.*.log
+
+# Terraform Cloud / Enterprise CLI configuration
+.terraformrc
+terraform.rc
