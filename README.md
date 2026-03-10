@@ -5,7 +5,7 @@
 | ID  | Category    | Name                                     | URL                                                            | Status  |
 | :-- | :---------- | :--------------------------------------- | :------------------------------------------------------------- | :------ |
 | 01  | get-started | EC2 Create Simple Instance               | [Explore](./01-create-ec2-instance)                            |✔️ Done  |
-| 02  | get-started | S3 Create Simple Bucket                  |                                                                |         |
+| 02  | get-started | S3 Create Simple Bucket                  | [Explore](./02-create-s3-bucket)                               |✔️ Done  |
 | 03  | get-started | Execute command on localhost             |                                                                |         |
 | 04  | get-started | AWS Codebuild demo                       |                                                                |         |
 | 05  | get-started | AWS CodePipeline demo                    |                                                                |         |

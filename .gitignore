@@ -24,4 +24,4 @@ crash.*.log
 .terraformrc
 terraform.rc
 
-*.tfplan
+tfplan
